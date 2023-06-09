@@ -347,6 +347,9 @@ impl Chain {
             ArbitrumNova |
             FilecoinMainnet |
             LineaTestnet |
+            Optimism |
+            OptimismKovan |
+            OptimismGoerli |
             FilecoinHyperspaceTestnet => false,
 
             // Unknown / not applicable, default to false for backwards compatibility
